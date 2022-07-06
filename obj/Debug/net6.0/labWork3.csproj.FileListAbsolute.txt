@@ -1,0 +1,5 @@
+C:\Users\Felek\source\repos\labWork3\labWork3\obj\Debug\net6.0\labWork3.csproj.AssemblyReference.cache
+C:\Users\Felek\source\repos\labWork3\labWork3\obj\Debug\net6.0\labWork3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Felek\source\repos\labWork3\labWork3\obj\Debug\net6.0\labWork3.AssemblyInfoInputs.cache
+C:\Users\Felek\source\repos\labWork3\labWork3\obj\Debug\net6.0\labWork3.AssemblyInfo.cs
+C:\Users\Felek\source\repos\labWork3\labWork3\obj\Debug\net6.0\labWork3.csproj.CoreCompileInputs.cache
